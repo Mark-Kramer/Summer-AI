@@ -2,3 +2,4 @@ helper/
 .ipynb_checkpoints/README-checkpoint.md
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
 code/Part_1/.ipynb_checkpoints/YourName-checkpoint.py
+.ipynb_*
