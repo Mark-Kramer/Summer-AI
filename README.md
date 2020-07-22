@@ -2,14 +2,13 @@
 
 Here's the plan:
 
-- Meet everyday on Zoom: 12-12:45 PM, and again 5-5:45 PM
+- Meet everyday on Zoom: 11-11:45 AM, and again 5-5:45 PM
 
 **Day 1**
-- [install Python](https://www.anaconda.com/products/individual)
-- Open JupyterLab.
+- [Install Python](https://www.python.org/downloads/)
 - Watch Udemy: Section 1.
 - Watch [this weird thing](https://vimeo.com/132700334)
-- Complete Programming Challenge.
+- Complete [Programming Challenge](/code/Part-1/)
 
 **Day 2**
 - Watch Udemy: Section 2.
