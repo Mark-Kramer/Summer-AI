@@ -2,7 +2,7 @@
 
 Here's the plan:
 
-- Meet everyday on Zoom: 11-11:45 AM, and again 5-5:45 PM
+- Meet everyday on Zoom: 11-11:45 AM, and again 4-4:45 PM
 
 **Day 1**
 - [Install Python](https://www.python.org/downloads/)
