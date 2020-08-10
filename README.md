@@ -28,8 +28,8 @@ Here's the plan:
 
 **Day 6,7**
 - A very very simple neuron.
-- Discuss [these notes](/stuff/Part-6-7/simple_neuron.pdf)
-- Try [this code](/stuff/Part-6-7/simple_neuron.ipynb)
+- Discuss [these notes](/stuff/Part-6-7/Summer-AI-Part-6-7.pdf)
+- Make a food critic with [this code](/stuff/Part-6-7/FoodCritic.py)
 - Watch [How we're teaching computers to understand pictures](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
 - Read Chapter 1 of [You Look Like a Thing and I Love You](https://www.amazon.com/You-Look-Like-Thing-Love/dp/0316525243)
 
