@@ -35,8 +35,8 @@ Here's the plan:
 
 **Day 8,9**
 - Teaching a simple neuron.
-- Discuss [these notes](/stuff/Part-8-9/train_the_simple_neuron.pdf)
-- Try [this code](/stuff/Part-8-9/train_the_simple_neuron.ipynb)
+- Discuss [these notes](/stuff/Part-8-9/Summer-AI-Part-8-9.pdf)
+- Try [this code](/stuff/Part-8-9/TeachFoodCritic.py)
 - Watch [The wonderful and terrifying implications of computers that can learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
 - Play with [this thing](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=&seed=0.05914&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - Read Chapter 2 of [You Look Like a Thing and I Love You](https://www.amazon.com/You-Look-Like-Thing-Love/dp/0316525243)
