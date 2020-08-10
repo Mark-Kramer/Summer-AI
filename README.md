@@ -6,24 +6,24 @@ Here's the plan:
 
 **Day 1**
 - [Install Python](https://www.python.org/downloads/)
-- Watch Udemy: Section 1.
+- Watch [Udemy](https://www.udemy.com/course/teach-your-kids-to-code/): Section 1.
 - Watch [this weird thing](https://vimeo.com/132700334)
 - Complete [Programming Challenge](/stuff/Part-1/)
 
 **Day 2**
-- Watch Udemy: Section 2.
+- Watch [Udemy](https://www.udemy.com/course/teach-your-kids-to-code/): Section 2.
 - Complete [Programming Challenge](/stuff/Part-2/)
 
 **Day 3**
-- Watch Udemy: Section 3.
+- Watch [Udemy](https://www.udemy.com/course/teach-your-kids-to-code/): Section 3.
 - Complete [Programming Challenge](/stuff/Part-3/)
 
 **Day 4**
-- Watch Udemy: Section 4.
+- Watch [Udemy](https://www.udemy.com/course/teach-your-kids-to-code/): Section 4.
 - Complete [Programming Challenge](/stuff/Part-4/)
 
 **Day 5**
-- Watch Udemy: Section 5.
+- Watch [Udemy](https://www.udemy.com/course/teach-your-kids-to-code/): Section 5.
 - Complete [Programming Challenge](/stuff/Part-5/)
 
 **Day 6,7**
