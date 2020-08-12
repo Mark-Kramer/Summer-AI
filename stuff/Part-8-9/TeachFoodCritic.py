@@ -23,12 +23,13 @@ for k in range(1000):
     ice_cream = random.choice([True, False])
     ketchup   = random.choice([True, False])
 
-    desired_output = [???]
+    desired_output    = [???]
     perceptron_output = [???]
-    error = [???]
+    error             = [???]
     
     w_yum  = w_yum  + error*ice_cream*learning_constant
     w_yuck = w_yuck + error*ketchup*learning_constant
+    print("My error is "+error+", my weights are w_yum="+w_yum ", w_yuck="+w_yuck"\n")
 
 print(w_yum, w_yuck)
 
